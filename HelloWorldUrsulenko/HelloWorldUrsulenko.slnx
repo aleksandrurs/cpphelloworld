@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HelloWorldUrsulenko.vcxproj" Id="baec41c3-2479-4c11-9e7b-a9f948e8275f" />
+</Solution>
