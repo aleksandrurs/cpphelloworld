@@ -7,4 +7,11 @@ int main()
 {
     cout << "hello world!\n";
     cout << "hello world!\n";
+    int x;
+    cin >> x;
+    if (x!=0){
+        cout << 10 / x;
+    }
+    return 0;
+    
 }
